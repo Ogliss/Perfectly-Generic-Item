@@ -40,7 +40,7 @@
         <li>Stony</li>
         <li>Metallic</li>
       </categories>
-      <commonality>0.00</commonality>
+      <commonality>-0.00</commonality>
       <color>(56,168,59)</color>
       <constructEffect>ConstructMetal</constructEffect>
       <soundImpactStuff>BulletImpact_Metal</soundImpactStuff>
