@@ -31,10 +31,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Harmony\PGI_GenStuff_CanMake_Patch.cs" />
+    <Compile Include="Harmony\PGI_ThingSetMakerUtility_IsDerpAndDisallowed_Patch.cs" />
+    <Compile Include="Harmony\PGI_BaseGenUtility_IsCheapWallStuff_Patch.cs" />
+    <Compile Include="Harmony\PGI_BackCompatibility_BackCompatibleDefName_Patch.cs" />
     <Compile Include="PGICompRemover.cs" />
     <Compile Include="ModOptions\PGIMod.cs" />
     <Compile Include="ModOptions\PGISettings.cs" />
-    <Compile Include="Harmony\PGI_BackCompatibility_BackCompatibleDefName_Patch.cs" />
+    <Compile Include="Harmony\Main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
