@@ -17,7 +17,7 @@ namespace PerfectlyGenericItem
         [HarmonyPostfix, HarmonyPriority(Priority.Last)]
         public static void Postfix(ThingDef d, ref bool __result)
         {
-            if (d.defName == "PerfectlyGenericItem")
+            if (d == PGIThingDefOf.PerfectlyGenericItem)
             {
                 __result = false;
             }

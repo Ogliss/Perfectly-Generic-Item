@@ -1,6 +1,6 @@
 ﻿using HarmonyLib;
 using RimWorld;
-using RimWorld.BaseGen;
+using RimWorld.SketchGen;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,17 +9,17 @@ using System.Text;
 using System.Threading.Tasks;
 using Verse;
 
-namespace PerfectlyGenericItem
+namespace PerfectlyGenericItem// SketchGenUtility.IsStuffAllowed
 {
-    [HarmonyPatch(typeof(ThingSetMakerUtility), "IsDerpAndDisallowed")]
-    public static class PGI_ThingSetMakerUtility_IsDerpAndDisallowed_Patch
+    [HarmonyPatch(typeof(SketchGenUtility), "IsStuffAllowed")]
+    public static class PGI_SketchGenUtility_IsStuffAllowed_Patch
     {
         [HarmonyPostfix, HarmonyPriority(Priority.Last)]
         public static void Postfix(ThingDef stuff, ref bool __result)
         {
             if (stuff == PGIThingDefOf.PerfectlyGenericItem)
             {
-                __result = true;
+                __result = false;
             }
         }
     }

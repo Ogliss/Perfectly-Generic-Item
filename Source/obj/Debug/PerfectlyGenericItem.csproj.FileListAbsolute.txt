@@ -13,3 +13,4 @@ C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Perfectly-Generic-It
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Perfectly-Generic-Item\Source\obj\Debug\PerfectlyGenericItem.csproj.CopyComplete
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Perfectly-Generic-Item\Source\obj\Debug\PerfectlyGenericItem.dll
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Perfectly-Generic-Item\Source\obj\Debug\PerfectlyGenericItem.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Perfectly-Generic-Item\Source\obj\Debug\PerfectlyGenericItem.csproj.CoreCompileInputs.cache
