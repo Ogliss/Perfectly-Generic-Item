@@ -14,3 +14,12 @@ C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Perfectly-Generic-It
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Perfectly-Generic-Item\Source\obj\Debug\PerfectlyGenericItem.dll
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Perfectly-Generic-Item\Source\obj\Debug\PerfectlyGenericItem.pdb
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Perfectly-Generic-Item\Source\obj\Debug\PerfectlyGenericItem.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Perfectly-Generic-Item\1.3\Source\obj\Debug\PerfectlyGenericItem.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Perfectly-Generic-Item\1.3\Source\obj\Debug\PerfectlyGenericItem.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Perfectly-Generic-Item\1.3\Source\obj\Debug\PerfectlyGenericItem.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Perfectly-Generic-Item\1.3\Source\obj\Debug\PerfectlyGenericItem.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Perfectly-Generic-Item\1.3\Source\obj\Debug\PerfectlyGenericItem.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Perfectly-Generic-Item\1.3\Source\obj\Debug\PerfectlyGenericItem.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Perfectly-Generic-Item\1.3\Assemblies\PerfectlyGenericItem.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Perfectly-Generic-Item\1.3\Assemblies\PerfectlyGenericItem.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Perfectly-Generic-Item\1.3\Source\obj\Debug\PerfectlyGenericItem.csproj.CopyComplete
